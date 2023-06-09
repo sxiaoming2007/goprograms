@@ -1,3 +1,3 @@
-module github.com/goprograms/v2
+module github.com/goprograms
 
 go 1.18
